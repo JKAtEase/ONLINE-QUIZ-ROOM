@@ -1,0 +1,47 @@
+body
+{
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-position: center;
+} 
+
+.selection
+{
+    width: 360x;
+    padding : 15% 20% 0;
+    margin : auto;
+}
+
+.entry
+{
+    position:relative;
+    z-index: 1;
+    max-width: 360px;
+    margin: 0 auto 100px;
+    padding: 20px;
+    text-align: center;
+}
+
+.f_button
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    background:white;
+    width: 100%;
+    padding : 20px;
+    font-size: 22px;
+    border-radius: 30px;
+    border-style: groove;
+    border-width: 5px;
+}
+
+.f_text
+{
+    width:100%;    
+    padding:20px;
+    border-radius: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    
+}
